@@ -7,7 +7,6 @@ TaskMaster is a task management platform created primarily as a learning project
 - Task deletion: Users can delete existing tasks.
 - Task updating: Users can update the title and description of existing tasks.
 - Task fetching: The application fetches tasks from a backend server when it mounts.
-- Filtering and sorting: The application allows users to filter and sort tasks based on various criteria.
 
 ## 🛠️ Tech Stack
 - Frontend: React, React DOM, and Tailwind CSS for styling.
