@@ -43,4 +43,4 @@ To use the application, follow these steps:
 └── ...
 ```
 
-This frontend is designed to work with the **[First-Go-App Backend](https://github.com/ikok07/cvbot-backend.git)**.
+This frontend is designed to work with the **[First-Go-App Backend](https://github.com/d-707bg/first-go-app)**.
